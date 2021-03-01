@@ -1,4 +1,9 @@
-### 👋 Hi, I'm Celina!
+<p align="left">
+  <h1 align="center">👋 Hi, I'm Celina!</h1>
+  <p align="center">
+    <a href="https://celinanperalta.com/resources/PeraltaResume.pdf"><strong>Resume</strong></a> | <a href="https://linkedin.com/in/celinanperalta"><strong>LinkedIn</strong></a> | <a href="https://celinanperalta.com"><strong>Website</strong></a>
+  </p>
+</p>
 
 🎓 I am a computer science major and Pinnacle Scholar at Stevens Institute of Technology. Over the past few years, I've gained experience in a wide variety of fields including project management, robotics, and web development. I'm currently seeking Summer 2022 SWE internship opportunities with the goal of working at a company that's making big strides in the space of music and technology.
 
