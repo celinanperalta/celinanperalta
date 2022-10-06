@@ -13,4 +13,4 @@
 
 🎶 If you haven't guessed already, I love exploring the intersection between technology and music, and I'm currently working on building a repository of live-coding music snippets in FoxDot. You can also find me jamming with my guitar and loop pedal :) Currently on repeat: Chet Baker, Mos Def, and Joji!
 
-☕️ Want to chat? Check out my availability on Calendly: https://calendly.com/celinanperalta
+☕️ Want to chat? Set up a coffee chat [here](https://fantastical.app/celinanperalta-xL4v/coffee-chat)!
