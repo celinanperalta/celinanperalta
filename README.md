@@ -5,7 +5,6 @@
   </p>
 </p>
 
-🎓 I am a computer science major and Pinnacle Scholar at Stevens Institute of Technology. Over the past few years, I've gained experience in a wide variety of fields including project management, robotics, and web development. I'm currently seeking full-time software engineering opportunities with an emphasis on backend systems or web engineering.
 
 💡 I bring a musician’s mindset to the workplace: I love to jam with my teammates and draw out individual strengths to deliver products driven by diversity of thought and perspective. I'm especially passionate about using my prior experience in software development and project management to work on projects that combine my love of music and technology.
 
